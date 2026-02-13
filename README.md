@@ -1,5 +1,8 @@
 # Hospital & Pharmacy Data Analysis – Power BI Project
 
+<img width="881" height="501" alt="image" src="https://github.com/user-attachments/assets/f08cdbda-baf0-4005-8787-decf7c183333" />
+
+
 ## Assignment Overview
 
 This project was completed as part of a Power BI data analysis assignment focused on a county referral hospital. The goal was to **clean**, **model**, **analyze**, and **visualize** messy healthcare data from multiple departments to support hospital management decision-making.
